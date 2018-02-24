@@ -1,0 +1,9 @@
+body{
+    background-color: bisque;
+    color: crimson;
+    font-size: 26px;
+    font-weight: bolder;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-stretch: expanded;
+    text-align: left;
+}
